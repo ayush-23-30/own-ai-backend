@@ -1,0 +1,8 @@
+-------- Day 1 ------- 
+#-> a new services folder : it will writing the code logic and now in controller we just check and return, first we where writing the logic also in controller 
+
+#-> study express validation (a library for validation)
+
+#-> if you want * as allFunction from a page , then you can't do export default because it return only one function.... 
+
+-------- Day 2 ------- 
